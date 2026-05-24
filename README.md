@@ -1,5 +1,5 @@
-<img width="601" height="536" alt="image" src="https://github.com/user-attachments/assets/71552d47-73e0-4611-817d-39221a1b0809" />
 # UManageIt
+<img width="601" height="536" alt="image" src="https://github.com/user-attachments/assets/71552d47-73e0-4611-817d-39221a1b0809" />
 A task managing software helps you to list down tasks with lightweight modular Python code.
 # Usage
 <img width="601" height="536" alt="image" src="https://github.com/user-attachments/assets/496d09fc-7429-4392-8564-e4ef2980dfc8" />
